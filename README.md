@@ -3,6 +3,7 @@ Thank you for checking out my personal project! Here are the products I've been 
 ## Products
 1. [Hangman Game](https://github.com/Theresiap/PP/blob/master/Hangman)
   - [Helper Code](https://github.com/Theresiap/Personal-Project/blob/master/ps3_hangman.py)
+  - [Word List](https://github.com/Theresiap/Personal-Project/blob/master/words.txt)
 
 ## Additional Information
 
