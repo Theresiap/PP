@@ -1,6 +1,10 @@
-## Personal Project Products
+# Personal Project
 
 Thank you for checking out my personal project! Here are the products I've been working on. 
+
+##Products
+1. [Hangman](url)
+##Additional Information
 
 I've included footnotes for clarification in the code, but feel free to contact me: purnot1@rchk.edu.hk for any further questions.
 
