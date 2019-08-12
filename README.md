@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Personal Project Products
 
-You can use the [editor on GitHub](https://github.com/Theresiap/PP/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Thank you for checking out my personal project! Here are the products I've been working on. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I've included footnotes for clarification in the code, but feel free to contact me: purnot1@rchk.edu.hk for any further questions.
 
 ### Markdown
 
@@ -27,10 +27,6 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Theresiap/PP/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
