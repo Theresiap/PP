@@ -8,4 +8,4 @@ Thank you for checking out my personal project! Here are the products I've been 
 
 ### Support or Contact
 
-I've included footnotes for clarification in the code [here](add later), but feel free to contact me: purnot1@rchk.edu.hk for any further questions.
+I've included footnotes for clarification in the code [here](add later), but feel free to contact me: [purnot1@rchk.edu.hk](purnot1@rchk.edu.hk) for any further questions.
