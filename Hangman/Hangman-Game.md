@@ -1,3 +1,4 @@
+```markdown
 import random
 
 WORDLIST_FILENAME = "words.txt"
@@ -157,5 +158,6 @@ def hangman(secretWord):
             print('-----------')            
             print('Sorry, you ran out of guesses. The word was '+secretWord+'. ')
             break
+```
             
 hangman('You can put anything here')
