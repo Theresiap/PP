@@ -3,7 +3,7 @@
 Hangman is a paper and pencil guessing game for two or more players. One player thinks of a word, phrase or sentence and the other tries to guess it by suggesting letters or numbers, within a certain number of guesses.<br>
 ### How To Run
 <br>On the last line of the code, you can input your chosen word by changing the word in the bracket.<br>
-```
+```python
 hangman('You can put anything here')
 ```
 <br>For this game, you will need to copy 3 files.<br>
