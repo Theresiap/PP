@@ -1,4 +1,4 @@
-## Personal Project Products <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" style="width:70px;height:28px;">
+## Personal Project Products <img src="https://banner2.cleanpng.com/20181115/ttc/kisspng-programming-python-logo-programming-language-compu-data-analysis-course-st-hua-private-school-5bedd96a011543.8733544715423143460044.jpg" alt="Python" style="width:144px;height:55px;">
 
 Thank you for checking out my personal project! Here are the products I've been working on. 
 
