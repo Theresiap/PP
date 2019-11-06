@@ -1,3 +1,5 @@
+## Personal Project Products
+
 Thank you for checking out my personal project! Here are the products I've been working on. 
 
 ## Products
