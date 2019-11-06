@@ -3,10 +3,10 @@
 Thank you for checking out my personal project! Here are the products I've been working on. 
 
 ## Products
-|<b>[Hangman Game](https://github.com/Theresiap/Personal-Project/blob/master/Hangman/Hangman.md)</b><br><img src="https://11points.com/wp-content/uploads/2012/09/dominatehangman-1600.jpg" style="width:100px; height:50px" alt="Hangman">| 
-| Content Cell  |
-| Content Cell  |
 
+| <b>[Hangman Game](https://github.com/Theresiap/Personal-Project/blob/master/Hangman/Hangman.md)</b>  | <b>[Odd Or Even](https://github.com/Theresiap/Personal-Project/blob/master/Hangman/Hangman.md)</b> |
+| ------------- | ------------- |
+| <img src="https://11points.com/wp-content/uploads/2012/09/dominatehangman-1600.jpg" style="width:100px; height:50px" alt="Hangman">  | <img src="https://11points.com/wp-content/uploads/2012/09/dominatehangman-1600.jpg" style="width:100px; height:50px" alt="Hangman">  |
 
 2. [Odd Or Even](https://github.com/Theresiap/Personal-Project/blob/master/OddOrEven)
 ### How To Use The Site
