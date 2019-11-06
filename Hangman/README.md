@@ -9,6 +9,6 @@ On the last line of the code, you can input your chosen word by changing the wor
 hangman('You can put anything here')
 ```
 <br>For this game, you will need to copy 3 files.<br>
-1. <a href="https://github.com/Theresiap/Personal-Project/blob/master/Hangman/Hangman-Game.md">Code For Game</a><br>
+1. <a href="https://github.com/Theresiap/Personal-Project/blob/master/Hangman/Hangman-Game.md">Main Code</a><br>
 2. <a href="https://github.com/Theresiap/Personal-Project/blob/master/Hangman/ps3_hangman.py">Code Definitions</a><br>
 3. <a href="https://github.com/Theresiap/Personal-Project/blob/master/Hangman/words.txt">Word List</a>
