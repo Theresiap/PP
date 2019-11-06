@@ -5,7 +5,7 @@ Thank you for checking out my personal project! Here are the products I've been 
 ## Products
 1. [Hangman Game](https://github.com/Theresiap/Personal-Project/blob/master/Hangman/Hangman.md)
    - [Helper Code](https://github.com/Theresiap/Personal-Project/blob/master/ps3_hangman.py)
-   - [Word List](https://github.com/Theresiap/Personal-Project/blob/master/words.txt)
+  - [Word List](https://github.com/Theresiap/Personal-Project/blob/master/words.txt)
 2. [Odd Or Even](https://github.com/Theresiap/Personal-Project/blob/master/OddOrEven)
 ### How To Use The Site
 
