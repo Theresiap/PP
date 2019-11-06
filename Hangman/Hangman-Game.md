@@ -1,3 +1,4 @@
+## Hangman Code
 ```markdown
 import random
 
