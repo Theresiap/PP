@@ -3,6 +3,10 @@
 Thank you for checking out my personal project! Here are the products I've been working on. 
 
 ## Products
+| <b>Hangman Game</b>  | <b></b> |
+| <a href="https://github.com/Theresiap/Personal-Project/blob/master/Hangman/Hangman.md"><img src="https://11points.com/wp-content/uploads/2012/09/dominatehangman-1600.jpg" alt="Hangman"> |
+| Content Cell  |
+| Content Cell  |
 1. [Hangman Game](https://github.com/Theresiap/Personal-Project/blob/master/Hangman/Hangman.md)
    - [Helper Code](https://github.com/Theresiap/Personal-Project/blob/master/ps3_hangman.py)
   - [Word List](https://github.com/Theresiap/Personal-Project/blob/master/words.txt)
