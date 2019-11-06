@@ -1,4 +1,4 @@
-## Personal Project Products<img src="https://www.python.org/static/community_logos/python-logo.png" title="Python" alt="Coding">
+## Personal Project Products<img src="https://www.python.org/static/community_logos/python-logo.png" title="Python" alt="Coding"style="width:70px;height:28px;>
 
 Thank you for checking out my personal project! Here are the products I've been working on. 
 
