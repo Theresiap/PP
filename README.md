@@ -12,4 +12,6 @@ For those who have never used github, [here is a quick help guide]() to make sur
 
 ### Support or Contact
 
-I've included footnotes for clarification in the code [here](add later), but feel free to contact me: [purnot1@rchk.edu.hk](purnot1@rchk.edu.hk) for any further questions.
+If there is an error with the site/code, please tell me through [here](). 
+<br>
+Feel free to contact me: [purnot1@rchk.edu.hk](purnot1@rchk.edu.hk) for any further questions.
