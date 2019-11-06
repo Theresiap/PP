@@ -3,9 +3,9 @@
 Thank you for checking out my personal project! Here are the products I've been working on. 
 
 ## Products
-| <b>Hangman Game</b>| 
+|<b>Hangman Game</b>| 
 <br>
-<a href="https://github.com/Theresiap/Personal-Project/blob/master/Hangman/Hangman.md"><img src="https://11points.com/wp-content/uploads/2012/09/dominatehangman-1600.jpg" style="width:100px; height:50px" alt="Hangman"> |
+|<a href="https://github.com/Theresiap/Personal-Project/blob/master/Hangman/Hangman.md"><img src="https://11points.com/wp-content/uploads/2012/09/dominatehangman-1600.jpg" style="width:100px; height:50px" alt="Hangman">|
 | Content Cell  |
 | Content Cell  |
 1. [Hangman Game](https://github.com/Theresiap/Personal-Project/blob/master/Hangman/Hangman.md)
