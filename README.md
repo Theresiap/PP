@@ -1,6 +1,4 @@
-## Personal Project Products <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" style="width:100px;height:50px;">
-
-Thank you for checking out my personal project! Here are the products I've been working on. 
+Hello! I am Theresia Purnomo, a year 11 student from RCHK. Thank you for checking out my personal project! In this site, I've uploaded all my products I've been working on, and I encourage you to copy the code and develop them yourself. 
 
 ## Products
 
