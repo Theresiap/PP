@@ -29,11 +29,7 @@ def chooseWord(wordlist):
     """
     return random.choice(wordlist)
 
-# end of helper code
-# -----------------------------------
-
-# Load the list of words into the variable wordlist
-# so that it can be accessed from anywhere in the program
+# Load the list of words into the variable wordlist so that it can be accessed from anywhere in the program
 wordlist = loadWords()
 
 def isWordGuessed(secretWord, lettersGuessed):
@@ -87,16 +83,6 @@ def hangman(secretWord):
 
     Follows the other limitations detailed in the problem write-up.
     '''
-    # FILL IN YOUR CODE HERE...
-
-
-
-
-
-
-# When you've completed your hangman function, uncomment these two lines
-# and run this file to test! (hint: you might want to pick your own
-# secretWord while you're testing)
 
 # secretWord = chooseWord(wordlist).lower()
 # hangman(secretWord)
