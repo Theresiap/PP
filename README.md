@@ -1,4 +1,4 @@
-## Personal Project Products <img src="269-2691398_python-logo-clipart-transparent-background-png-download.png" alt="Python">
+## Personal Project Products <img src="PinClipart.com_snake-charmer-clipart_2691398.png" alt="Python">
 
 Thank you for checking out my personal project! Here are the products I've been working on. 
 
