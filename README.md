@@ -1,4 +1,4 @@
-## Personal Project Products <img src="https://www.pinclipart.com/pindetail/wxihmx_python-logo-clipart-transparent-background-png-download/" alt="Python" style="width:100px;height:100px;">
+## Personal Project Products <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" style="width:70px;height:28px;">
 
 Thank you for checking out my personal project! Here are the products I've been working on. 
 
