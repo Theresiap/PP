@@ -1,6 +1,6 @@
 Hello! I am Theresia Purnomo, a year 11 student from RCHK. Thank you for checking out my personal project! In this site, I've uploaded all my products I've been working on, and I encourage you to copy the code and develop them yourself. 
 
-## Products
+### Products
 
 | <b>[Hangman Game](https://theresiap.github.io/Personal-Project/Hangman/)</b>  | <b>[Odd Or Even](https://github.com/Theresiap/Personal-Project/blob/master/Hangman/Hangman.md)</b> |
 | ------------- | ------------- |
