@@ -8,7 +8,7 @@ Hello! I am Theresia Purnomo, a year 11 student from RCHK. Thank you for checkin
 
 
 ### How To Use The Site
-For those who have never used github, [here](https://theresiap.github.io/Help/) is a quick help guide to make sure you fully utilise the site.
+For those who have never used github, [here](https://theresiap.github.io/Personal-Project/Help/) is a quick help guide to make sure you fully utilise the site.
 
 ### Support or Contact
 
