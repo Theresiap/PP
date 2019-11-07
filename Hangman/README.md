@@ -12,6 +12,5 @@ On the last line of the code, you can input your chosen word by changing the wor
 ```python
 hangman('You can put anything here')
 ```
-
-Enjoy!
+#### Enjoy!
 >  <a href="https://theresiap.github.io/Personal-Project/">Return To Main Page</a>
