@@ -14,4 +14,4 @@ For those who have never used github, [here]() is a quick help guide to make sur
 
 If there is an error with the site/code, please tell me through [here](). 
 <br>
-Feel free to contact me: [purnot1@rchk.edu.hk](purnot1@rchk.edu.hk) for any further questions.
+Feel free to contact me: <a href = "mailto: purnot1@rchk.edu.hk">purnot1@rchk.edu.hk</a> for any further questions.
