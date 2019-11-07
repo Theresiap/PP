@@ -7,9 +7,11 @@ For this game, you will need to copy 3 files.<br>
    1. <a href="https://github.com/Theresiap/Personal-Project/blob/master/Hangman/Hangman-Game.md">Main Code</a>
    2. <a href="https://github.com/Theresiap/Personal-Project/blob/master/Hangman/ps3_hangman.py">Code Definitions</a>
    3. <a href="https://github.com/Theresiap/Personal-Project/blob/master/Hangman/words.txt">Word List</a>
-<br>On the last line of the code, you can input your chosen word by changing the word in the bracket.
+
+On the last line of the code, you can input your chosen word by changing the word in the bracket.
 ```python
 hangman('You can put anything here')
 ```
+
 Enjoy!
 >  <a href="https://theresiap.github.io/Personal-Project/">Return To Main Page</a>
