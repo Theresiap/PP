@@ -13,6 +13,5 @@ For this game, you will need to copy 3 files.<br>
 2. <a href="https://github.com/Theresiap/Personal-Project/blob/master/Hangman/ps3_hangman.py">Code Definitions</a><br>
 3. <a href="https://github.com/Theresiap/Personal-Project/blob/master/Hangman/words.txt">Word List</a>
 
-<br>
 Enjoy!
 >  <a href="https://theresiap.github.io/Personal-Project/">Return To Main Page</a>
