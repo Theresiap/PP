@@ -12,3 +12,5 @@ hangman('You can put anything here')
 1. <a href="https://github.com/Theresiap/Personal-Project/blob/master/Hangman/Hangman-Game.md">Main Code</a><br>
 2. <a href="https://github.com/Theresiap/Personal-Project/blob/master/Hangman/ps3_hangman.py">Code Definitions</a><br>
 3. <a href="https://github.com/Theresiap/Personal-Project/blob/master/Hangman/words.txt">Word List</a>
+
+<button onclick="window.location.href = 'https://theresiap.github.io/Personal-Project/';">Return To Main Page</button>
