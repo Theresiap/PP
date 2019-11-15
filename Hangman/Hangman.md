@@ -175,5 +175,5 @@ def hangman(secretWord):
 <br>
 
 ```
-hangman('insert random words here')
+hangman('You can put anything here')
 ```
