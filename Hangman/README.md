@@ -3,14 +3,19 @@
 Hangman is a paper and pencil guessing game for two or more players. One player thinks of a word, phrase or sentence and the other tries to guess it by suggesting letters or numbers, within a certain number of guesses.<br>
 
 ### How To Run The Program
-For this game, you will need to copy 3 files.<br>
+For this game, you will need to copy 2 files. Make sure both files are saved in the same directory.<br>
    1. <a href="https://github.com/Theresiap/Personal-Project/blob/master/Hangman/Hangman-Game.md">Main Code</a>
-   2. <a href="https://github.com/Theresiap/Personal-Project/blob/master/Hangman/ps3_hangman.py">Code Definitions</a>
    3. <a href="https://github.com/Theresiap/Personal-Project/blob/master/Hangman/words.txt">Word List</a>
 
-For the main code, you will need to create 9 lines of code, and copy each code in the box onto the line.
-
-On the last line of the code, you can input your chosen word by changing the word in the bracket.
+When loading the main code, you will need two lines (fixed code and changed code). <br>
+For the fixed code, this should appear when the code is run. This is 3 different tests: checking if the word list is accesible, 'apple' works with the code, and that all letters appear.
+```
+Loading word list from file...
+   0 words loaded.
+_pp_e
+abcdfghjlmnoqtuvwxyz
+```
+For the changed code, you can input your chosen word by changing the word in the bracket.
 ```python
 hangman('You can put anything here')
 ```
