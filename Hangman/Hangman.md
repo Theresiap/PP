@@ -29,6 +29,9 @@ def chooseWord(wordlist):
     """
     return random.choice(wordlist)
 
+# end of helper code
+# -----------------------------------
+
 # Load the list of words into the variable wordlist
 # so that it can be accessed from anywhere in the program
 wordlist = loadWords()
@@ -40,11 +43,9 @@ def isWordGuessed(secretWord, lettersGuessed):
     returns: boolean, True if all the letters of secretWord are in lettersGuessed;
       False otherwise
     '''
-    result = True
-    for x in secretWord:
-        if not (x in lettersGuessed):
-            result = False
-    return result
+    # FILL IN YOUR CODE HERE...
+
+
 
 def getGuessedWord(secretWord, lettersGuessed):
     '''
@@ -53,15 +54,9 @@ def getGuessedWord(secretWord, lettersGuessed):
     returns: string, comprised of letters and underscores that represents
       what letters in secretWord have been guessed so far.
     '''
-    result = ""
-    for x in secretWord:
-        if (x in lettersGuessed):
-            result = result + x
-        else:
-            result = result + '_'
-    return result
+    # FILL IN YOUR CODE HERE...
 
-print(getGuessedWord(secretWord, lettersGuessed))
+
 
 def getAvailableLetters(lettersGuessed):
     '''
@@ -69,12 +64,8 @@ def getAvailableLetters(lettersGuessed):
     returns: string, comprised of letters that represents what letters have not
       yet been guessed.
     '''
-    alphabet = 'abcdefghijklmnopqrstuvwxyz'
-    for x in lettersGuessed:
-        alphabet = alphabet.replace(x, '')
-    return alphabet
+    # FILL IN YOUR CODE HERE...
     
-print(getAvailableLetters(lettersGuessed))
 
 def hangman(secretWord):
     '''
@@ -96,6 +87,58 @@ def hangman(secretWord):
 
     Follows the other limitations detailed in the problem write-up.
     '''
+    # FILL IN YOUR CODE HERE...
+
+
+
+
+
+
+# When you've completed your hangman function, uncomment these two lines
+# and run this file to test! (hint: you might want to pick your own
+# secretWord while you're testing)
+
+# secretWord = chooseWord(wordlist).lower()
+# hangman(secretWord)
+
+secretWord = 'apple' 
+lettersGuessed = ['e', 'i', 'k', 'p', 'r', 's']
+
+isWordGuessed('durian', ['h', 'a', 'c', 'd', 'i', 'm', 'n', 'r', 't', 'u'])
+
+def isWordGuessed(secretWord, lettersGuessed):
+    '''
+    secretWord: string, the word the user is guessing
+    lettersGuessed: list, what letters have been guessed so far
+    returns: boolean, True if all the letters of secretWord are in lettersGuessed;
+      False otherwise
+    '''
+    result = True
+    for x in secretWord:
+        if not (x in lettersGuessed):
+            result = False
+    return result
+
+def getGuessedWord(secretWord, lettersGuessed):
+    result = ""
+    for x in secretWord:
+        if (x in lettersGuessed):
+            result = result + x
+        else:
+            result = result + '_'
+    return result
+
+print(getGuessedWord(secretWord, lettersGuessed))
+
+def getAvailableLetters(lettersGuessed):
+    alphabet = 'abcdefghijklmnopqrstuvwxyz'
+    for x in lettersGuessed:
+        alphabet = alphabet.replace(x, '')
+    return alphabet
+
+print(getAvailableLetters(lettersGuessed))
+
+def hangman(secretWord):
     lettersGuessed = ''
     availableLetters = 'abcdefghijklmnopqrstuvwxyz'
     chances = 8
@@ -127,4 +170,10 @@ def hangman(secretWord):
             print('-----------')            
             print('Sorry, you ran out of guesses. The word was '+secretWord+'. ')
             break
+```
+
+<br>
+
+```
+hangman('insert random words here')
 ```
