@@ -8,6 +8,8 @@ For this game, you will need to copy 3 files.<br>
    2. <a href="https://github.com/Theresiap/Personal-Project/blob/master/Hangman/ps3_hangman.py">Code Definitions</a>
    3. <a href="https://github.com/Theresiap/Personal-Project/blob/master/Hangman/words.txt">Word List</a>
 
+For the main code, you will need to create 9 lines of code, and copy each code in the box onto the line.
+
 On the last line of the code, you can input your chosen word by changing the word in the bracket.
 ```python
 hangman('You can put anything here')
