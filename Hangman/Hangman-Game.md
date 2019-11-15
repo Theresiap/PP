@@ -29,7 +29,8 @@ def chooseWord(wordlist):
     """
     return random.choice(wordlist)
 
-# Load the list of words into the variable wordlist so that it can be accessed from anywhere in the program
+# Load the list of words into the variable wordlist
+# so that it can be accessed from anywhere in the program
 wordlist = loadWords()
 
 def isWordGuessed(secretWord, lettersGuessed):
@@ -39,9 +40,11 @@ def isWordGuessed(secretWord, lettersGuessed):
     returns: boolean, True if all the letters of secretWord are in lettersGuessed;
       False otherwise
     '''
-    # FILL IN YOUR CODE HERE...
-
-
+    result = True
+    for x in secretWord:
+        if not (x in lettersGuessed):
+            result = False
+    return result
 
 def getGuessedWord(secretWord, lettersGuessed):
     '''
@@ -50,9 +53,15 @@ def getGuessedWord(secretWord, lettersGuessed):
     returns: string, comprised of letters and underscores that represents
       what letters in secretWord have been guessed so far.
     '''
-    # FILL IN YOUR CODE HERE...
+    result = ""
+    for x in secretWord:
+        if (x in lettersGuessed):
+            result = result + x
+        else:
+            result = result + '_'
+    return result
 
-
+print(getGuessedWord(secretWord, lettersGuessed))
 
 def getAvailableLetters(lettersGuessed):
     '''
@@ -60,8 +69,12 @@ def getAvailableLetters(lettersGuessed):
     returns: string, comprised of letters that represents what letters have not
       yet been guessed.
     '''
-    # FILL IN YOUR CODE HERE...
+    alphabet = 'abcdefghijklmnopqrstuvwxyz'
+    for x in lettersGuessed:
+        alphabet = alphabet.replace(x, '')
+    return alphabet
     
+print(getAvailableLetters(lettersGuessed))
 
 def hangman(secretWord):
     '''
@@ -83,37 +96,6 @@ def hangman(secretWord):
 
     Follows the other limitations detailed in the problem write-up.
     '''
-
-# secretWord = chooseWord(wordlist).lower()
-# hangman(secretWord)
-
-def isWordGuessed(secretWord, lettersGuessed):
-    result = True
-    for x in secretWord:
-        if not (x in lettersGuessed):
-            result = False
-    return result
-
-def getGuessedWord(secretWord, lettersGuessed):
-    result = ""
-    for x in secretWord:
-        if (x in lettersGuessed):
-            result = result + x
-        else:
-            result = result + '_'
-    return result
-    
-print(getGuessedWord(secretWord, lettersGuessed))
-
-def getAvailableLetters(lettersGuessed):
-    alphabet = 'abcdefghijklmnopqrstuvwxyz'
-    for x in lettersGuessed:
-        alphabet = alphabet.replace(x, '')
-    return alphabet
-    
-print(getAvailableLetters(lettersGuessed))
-
-def hangman(secretWord):
     lettersGuessed = ''
     availableLetters = 'abcdefghijklmnopqrstuvwxyz'
     chances = 8
@@ -145,5 +127,4 @@ def hangman(secretWord):
             print('-----------')            
             print('Sorry, you ran out of guesses. The word was '+secretWord+'. ')
             break
-hangman('You can put anything here')
 ```
