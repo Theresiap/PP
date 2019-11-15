@@ -7,8 +7,8 @@ For this game, you will need to copy 2 files. Make sure both files are saved in 
    1. <a href="https://github.com/Theresiap/Personal-Project/blob/master/Hangman/Hangman-Game.md">Main Code</a>
    2. <a href="https://github.com/Theresiap/Personal-Project/blob/master/Hangman/words.txt">Word List</a>
 
-When loading the main code, you will need two lines (fixed code and changed code). <br>
-For the fixed code, this should appear when the code is run. <br>
+When loading the main code, you will need two lines (fixed code and changed code): <br>
+<br>For the fixed code, this should appear when the code is run. <br>
 This is 3 different tests: checking if the word list is accesible, 'apple' works with the code, and that all letters appear.
 ```
 Loading word list from file...
