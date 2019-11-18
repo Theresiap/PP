@@ -9,10 +9,8 @@ If there's a product you would like to further develop and play around, you can 
 
 ### Reading The Code
 Within the code, hashtags '#' may be included. This isn't part of the code, rather is instructions or guidelines on what the code is supposed to do.
-<br>
 ![](Nov-13-2019 16-51-56.gif)
 
 ### Expert
 For experts who are interested in the developer code, click on the `View on GitHub button`, and you will be lead to the developer site.
-<br>
 ![](Nov-07-2019 11-05-55.gif)
