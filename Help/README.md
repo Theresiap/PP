@@ -1,6 +1,6 @@
 # How To Use The Site
 ### Running The Code
-A good platform for running the programs is Jupyter. Jupyter is an open- source software, that would both run various programming languages and show the results.
+A good platform for running the programs is <a href="https://jupyter.org/">Jupyter</a>. Jupyter is an open- source software, that would both run various programming languages and show the results.
 <img src="https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2018/04/jupyter.png" alt="Jupyter">
 
 ### Branching Existing Code
