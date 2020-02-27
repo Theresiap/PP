@@ -4,7 +4,7 @@ Hangman is a paper and pencil guessing game for two or more players. One player 
 
 ### How To Run The Program
 For this game, you will need to copy 2 files. Make sure both files are saved in the same directory.<br>
-   1. <a href="https://github.com/Theresiap/Personal-Project/blob/master/Hangman/Hangman-Game.md">Main Code</a>
+   1. <a href="https://github.com/Theresiap/Personal-Project/blob/master/Hangman/Hangman.md">Main Code</a>
    2. <a href="https://github.com/Theresiap/Personal-Project/blob/master/Hangman/words.txt">Word List</a>
 
 When loading the main code, you will need two lines (fixed code and changed code): <br>
