@@ -20,5 +20,9 @@ For the changed code, you can input your chosen word by changing the word in the
 ```python
 hangman('You can put anything here')
 ```
+
+<i>This project was based on "Project Set 3" assignment in <a href="https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2019/course/">"MITx Python Course"</a></i>
+
+##
 #### Enjoy!
 >  <a href="https://theresiap.github.io/Personal-Project/">Return To Main Page</a>
