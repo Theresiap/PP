@@ -2,6 +2,29 @@ Hello! I am Theresia Purnomo, a year 11 student from RCHK. Thank you for checkin
 
 ### Products
 
+<table>
+<tr>
+  <td><b>[Hangman Game](https://theresiap.github.io/Personal-Project/Hangman/)</b></td>
+  <td>Second column</td>
+  <td>Third column</td>
+  <td>Fourth column</td>
+</tr>
+<tr>
+  <td>More data for the first column</td>
+  <td>More data for the second column</td>
+  <td>More data for the third column</td>
+  <td>More data for the fourth column</td>
+</tr>
+</table>
+
+table {
+  table-layout: fixed ;
+  width: 100% ;
+}
+td {
+  width: 25% ;
+}
+
 | <b>[Hangman Game](https://theresiap.github.io/Personal-Project/Hangman/)</b>  | <b>[Stopwatch](https://theresiap.github.io/Personal-Project/Stopwatch/)</b> | <b>[Guess The Number](https://theresiap.github.io/Personal-Project/GuessTheNumber/)</b>  | <b>[Phone And Email Extractor](https://theresiap.github.io/Personal-Project/PhoneAndEmail/)</b>  |
 | ------------- | ------------- | ------------- | ------------- |
 | <img src="https://11points.com/wp-content/uploads/2012/09/dominatehangman-1600.jpg" style="width:181px; height:90.395px" alt="Hangman">  | <img src="https://thumbs.dreamstime.com/b/close-up-isolated-hand-presses-stopwatch-start-button-sport-measurements-metrology-close-up-isolated-hand-125484559.jpg" alt="Stopwatch">  | <img src="https://www.funbrain.com/assets/img/content-cards/F2qRmLhRnmebc8jJAUjr_GuessTheNumber%403x.png" style="width:181px; height:121.4765" alt="Guess The Number">  | <img src="http://www.freelanceprojects.in/wp-content/uploads/2016/06/smart-phone-as-email-solution2.gif" style="width:181px; height:204.3068px" alt="Phone And Email">
