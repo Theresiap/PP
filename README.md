@@ -4,7 +4,7 @@ Hello! I am Theresia Purnomo, a year 11 student from RCHK. Thank you for checkin
 
 <table>
 <tr>
-  <td><b>[Hangman Game](https://theresiap.github.io/Personal-Project/Hangman/)</b></td>
+  <td>=[Hangman Game](https://theresiap.github.io/Personal-Project/Hangman/)</td>
   <td>Second column</td>
   <td>Third column</td>
   <td>Fourth column</td>
