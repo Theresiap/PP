@@ -17,20 +17,8 @@ Hello! I am Theresia Purnomo, a year 11 student from RCHK. Thank you for checkin
 </tr>
 </table>
 
-table#demotable {
-  table-layout: fixed ;
-  width: 100% ;
-  border-collapse: collapse ;
-  border: 1px black solid ;
-}
-table#demotable td {
-  width: 50% ;
-  border: 1px black solid ;
-  padding: 10px ;
-}
-table#demotable caption {
-  font-style: italic ;
-}
+table-layout: auto;
+width: 100%;
 
 | <b>[Hangman Game](https://theresiap.github.io/Personal-Project/Hangman/)</b>  | <b>[Stopwatch](https://theresiap.github.io/Personal-Project/Stopwatch/)</b> | <b>[Guess The Number](https://theresiap.github.io/Personal-Project/GuessTheNumber/)</b>  | <b>[Phone And Email Extractor](https://theresiap.github.io/Personal-Project/PhoneAndEmail/)</b>  |
 | ------------- | ------------- | ------------- | ------------- |
