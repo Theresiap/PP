@@ -8,9 +8,10 @@ For this program, you will need to copy 1 file.<br>
 
 In the file, there are 4 lines of code (4 different boxes).<br>
 Create a new line on top of all of the code. Copy and paste the page of information there and run all 5 lines.<br>
-Example:
+Example:<br>
 ![](PhoneAndEmail.gif)
 
-<i>This project was based on the "Phone Number and Email Address Extractor" project in "Automate The Boring Stuff With Python"</i>
+<i>This project was based on the "Phone Number and Email Address Extractor" project in <a href="https://automatetheboringstuff.com/">"Automate The Boring Stuff With Python"</a></i>
+
 #### Enjoy!
 >  <a href="https://theresiap.github.io/Personal-Project/">Return To Main Page</a>
