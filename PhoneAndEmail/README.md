@@ -2,6 +2,8 @@
 <img src="http://www.telego.com/Phone-call-vs-Email.jpg"><br>
 Phone and email extractor is a tool that lets the computer pick out only the phone numbers and email addresses from the pages of information inputted.<br>
 
+> Coding Skills: Number, String, List, Tuple, Set, Dictionary<br>
+
 ### How To Run The Program
 For this program, you will need to copy 1 file.<br>
    1. <a href="https://github.com/Theresiap/Personal-Project/blob/master/PhoneAndEmail/PhoneAndEmail.md">Main Code</a>
