@@ -1,5 +1,5 @@
 # Calculator
-<img src="https://previews.123rf.com/images/kritchanut/kritchanut1706/kritchanut170600476/79946923-businessman-pressing-calculator-button-financial-analyzing-concept-panoramic-banner.jpg">
+<img src="https://www.elevatedeffect.com/wp-content/uploads/2019/02/Calculator-and-Budget-banner-image.jpg">
 This program allows you to add, minus, multiply, and divide two numbers!<br>
 
 > Coding Skills: Numbers, List <br>
