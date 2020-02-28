@@ -2,7 +2,8 @@
 <img src="https://www.elevatedeffect.com/wp-content/uploads/2019/02/Calculator-and-Budget-banner-image.jpg">
 This program allows you to add, minus, multiply, and divide two numbers!<br>
 
-> Coding Skills: Numbers, List <br>
+
+> Coding Skills: Number, String, List, Tuple, Set, Dictionary<br>
 
 ### How To Run The Program
 For this game, you will need to copy 1 file.<br>
