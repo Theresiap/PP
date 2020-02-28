@@ -5,6 +5,6 @@
 ### How To Run The Program
 For this game, you will need to copy 1 file.<br>
    1. <a href="https://github.com/Theresiap/Personal-Project/blob/master/TicTacToe/TicTacToe.md">Main Code</a>
-
+When loading the main code, load the first line. The option for you to enter a coordinate should appear automatically on the second.
 #### Enjoy!
 >  <a href="https://theresiap.github.io/Personal-Project/">Return To Main Page</a>
