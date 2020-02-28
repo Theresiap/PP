@@ -8,4 +8,4 @@ else:
     print('The number {} is odd!'.format(number))
 ```
 
->  <a href="https://github.com/Theresiap/Personal-Project/blob/master/OddOrEven/OddOrEven.md">Return To Previous Page</a>
+>  <a href="https://theresiap.github.io/Personal-Project/OddOrEven/">Return To Previous Page</a>
