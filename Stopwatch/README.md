@@ -10,9 +10,8 @@ When loading the main code, you will need two lines:<br>
    1. The first line is to start the stopwatch
    2. The second line is to stop the stopwatch and add more laps
 
-For the changed code, you can input your chosen word by changing the word in the bracket.
-```python
-hangman('You can put anything here')
-```
+To start/stop/add a lap, press `Enter` on your keyboard.<br>
+The gif below shows how the code should look like.
+![](Stopwatch.gif)
 #### Enjoy!
 >  <a href="https://theresiap.github.io/Personal-Project/">Return To Main Page</a>
