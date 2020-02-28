@@ -1,5 +1,5 @@
-#Tic Tac Toe
-```
+## Hangman Code
+```markdown
 theBoard = {'top-L':' ','top-M':' ','top-R':' ',
             'mid-L':' ','mid-M':' ','mid-R':' ',
             'low-L':' ','low-M':' ','low-R':' '} 
@@ -22,3 +22,5 @@ for i in range(9):
                 turn = 'X'
 printBoard(theBoard)
 ```
+
+>  <a href="https://theresiap.github.io/Personal-Project/TicTacToe/">Return To Previous Page</a>
