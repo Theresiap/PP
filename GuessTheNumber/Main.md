@@ -23,4 +23,4 @@ else:
   print('Nope. The number I was thinking of was ' + str(secretNumber))
 ```
 
->  <a href="https://theresiap.github.io/Personal-Project/Hangman/">Return To Previous Page</a>
+>  <a href="https://theresiap.github.io/Personal-Project/GuessTheNumber/">Return To Previous Page</a>
