@@ -9,6 +9,14 @@ Hello! I am Theresia Purnomo, a year 11 student from RCHK. Thank you for checkin
 | ------------- | ------------- | ------------- | ------------- |
 | <img src="https://images.theconversation.com/files/186076/original/file-20170914-8971-1bvg0di.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip" style="width:181px; height:181px" alt="Password Generator">  | <img src="https://s7.orientaltrading.com/is/image/OrientalTrading/13801632?$PDP_VIEWER_IMAGE$" style="width:181px; height:181px" alt="Tic Tac Toe">  | <img src="https://karton.ph/images/product/photo/2758/D805a2.png" style="width:181px; height:181" alt="Guess The Number">  | <img src="https://miro.medium.com/max/1600/1*R-Nk15cdtPJNYlIBl68dKg.jpeg" style="width:181px; height:90.3659px" alt="Odd Or Even">
 
+Each of these sites use at least one of these six Python data types:
+  1. Numbers
+  2. String
+  3. List
+  4. Tuple
+  5. Set
+  6. Dictionary
+
 ### How To Use The Site
 For those who have never used github, [here](https://theresiap.github.io/Personal-Project/Help/) is a quick help guide to make sure you fully utilise the site.
 
