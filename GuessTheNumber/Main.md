@@ -1,4 +1,5 @@
-```
+## Guess The Number
+```markdown
 # This is a guess the number game.
 import random
 secretNumber = random.randint(1, 20)
@@ -21,3 +22,5 @@ if guess == secretNumber:
 else:
   print('Nope. The number I was thinking of was ' + str(secretNumber))
 ```
+
+>  <a href="https://theresiap.github.io/Personal-Project/Hangman/">Return To Previous Page</a>
