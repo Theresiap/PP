@@ -1,4 +1,4 @@
-## Hangman Code
+## Tic-Tac-Toe Code
 ```markdown
 theBoard = {'top-L':' ','top-M':' ','top-R':' ',
             'mid-L':' ','mid-M':' ','mid-R':' ',
