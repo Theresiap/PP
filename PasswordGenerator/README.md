@@ -2,7 +2,7 @@
 <img src="https://satelliteforinternet.com/wp-content/uploads/2017/09/10-Ways-To-Make-A-Strong-Password-Banner.jpg"><br>
 This code creates an entirely random password, and the code doesn't save on a site, so this is a safe method to create a password without worrying about sites copying your password.<br>
 
-> Coding Skills: Number, String, List, Tuple, Set, Dictionary<br>
+> Coding Skills: Number, String, Set<br>
 
 ### How To Run The Program
 For this program, you will need to copy 1 file.<br>
