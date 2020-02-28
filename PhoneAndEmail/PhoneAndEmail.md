@@ -1,3 +1,4 @@
+## Phone And Email Extractor
 ```
 import pyperclip, re
 phoneRegex = re.compile(r'''(
@@ -8,6 +9,11 @@ phoneRegex = re.compile(r'''(
     (\d{4}) # last 4 digits
     (\s*(ext|x|ext.)\s*(\d{2,5}))? # extension
     )''', re.VERBOSE)
+```
+
+<br>
+
+```
 # Create email regex.
 emailRegex = re.compile(r'''(
     [a-zA-Z0-9._%+-]+ # username
@@ -15,7 +21,11 @@ emailRegex = re.compile(r'''(
     [a-zA-Z0-9.-]+ # domain name
     (\.[a-zA-Z]{2,4}) # dot-something
     )''', re.VERBOSE)
+```
 
+<br>
+
+```
 # Find matches in clipboard text.
 text = str(pyperclip.paste())
 matches = []
@@ -26,7 +36,11 @@ for groups in phoneRegex.findall(text):
     matches.append(phoneNum)
 for groups in emailRegex.findall(text):
     matches.append(groups[0])
-    
+```
+
+<br>
+
+```
 # Copy results to the clipboard.
 if len(matches) > 0:
     pyperclip.copy('\n'.join(matches))
@@ -34,4 +48,6 @@ if len(matches) > 0:
     print('\n'.join(matches))
 else:
     print('No phone numbers or email addresses found.')
-    ```
+```
+
+>  <a href="https://theresiap.github.io/Personal-Project/Hangman/">Return To Previous Page</a>
