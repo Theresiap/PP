@@ -4,7 +4,7 @@
 
 ### How To Run The Program
 For this game, you will need to copy 1 file.<br>
-<a href="https://github.com/Theresiap/Personal-Project/blob/master/GuessTheNumber/Main.md">Main Code</a>
+   1. <a href="https://github.com/Theresiap/Personal-Project/blob/master/GuessTheNumber/Main.md">Main Code</a>
 
 #### Enjoy!
 >  <a href="https://theresiap.github.io/Personal-Project/">Return To Main Page</a>
