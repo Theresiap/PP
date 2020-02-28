@@ -1,22 +1,5 @@
 # Contact Me
 
-<script type="text/javascript" defer src="//www.123formbuilder.com/embed/5315741.js?type=lightbox" data-role="form" data-default-width="650px" data-embed-type="lightbox-text-link" data-embed-text-link="Contact us"></script>
-
-<div class="container">
-  <form action="action_page.php">
-
-    <label for="fname">First Name</label> <br>
-    <input type="text" id="fname" name="firstname"> <br>
- <br>
-    <label for="lname">Last Name</label> <br>
-    <input type="text" id="lname" name="lastname"> <br>
- <br>
-    <label for="subject">Feedback And Comments</label> <br>
-    <textarea id="subject" name="subject" style="height:200px"></textarea> <br>
- <br>
-    <input type="submit" value="Submit">
-
-  </form>
-</div>
+<iframe allowTransparency="true" style="min-height:300px; height:inherit; overflow:auto;" width="100%" id="contactform123" name="contactform123" marginwidth="0" marginheight="0" frameborder="0" src="//www.123formbuilder.com/my-contact-form-5315741.html"><p>Your browser does not support iframes. The contact form cannot be displayed. Please use another contact method (phone, fax etc)</p></iframe>
 
 >  <a href="https://theresiap.github.io/Personal-Project/">Return To Main Page</a>
